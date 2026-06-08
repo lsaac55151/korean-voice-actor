@@ -7,13 +7,28 @@
       "description": "",
       "sampleUrls": [
         "https://www.youtube.com/watch?v=8q9l5qoE1EQ",
-        "https://www.youtube.com/watch?v=NxhA3GLGZMw",
-        "https://www.youtube.com/watch?v=zWgkbo4MLkA",
-        "https://www.youtube.com/watch?v=3x7qhrvmqDw",
-        "https://www.youtube.com/watch?v=9ALPMGUK1-M",
+        {
+          "url": "https://www.youtube.com/watch?v=NxhA3GLGZMw",
+          "title": "🎙성우 이새아 샘플 - [10대 여자] 상큼발랄한 왈가닥 여동생"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zWgkbo4MLkA",
+          "title": "🎙성우 이새아 샘플 - [10대] 나른하고 중성적인 순수악 사이코패스"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=3x7qhrvmqDw",
+          "title": "🎙성우 이새아 샘플 - [캐릭터 여아] 귀염뽀짝한 청소 메이드"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9ALPMGUK1-M",
+          "title": "블루 아카이브(KR voice)｜'우라와 하나코' 메모리얼"
+        },
         "https://www.youtube.com/watch?v=9IpChaJvExU",
         "https://www.youtube.com/watch?v=2Yhzg1aPTK4",
-        "https://www.youtube.com/watch?v=i039i1_I3SI",
+        {
+          "url": "https://www.youtube.com/watch?v=i039i1_I3SI",
+          "title": "[성우 음성 샘플] 역전재판 '미츠루기 레이지' 음성 (CV. 이새아) | 어린 시절"
+        },
         "https://www.youtube.com/watch?v=V6lPTdjJ3Ko",
         "https://www.youtube.com/watch?v=3XPKBo0GHEk",
         "https://www.youtube.com/watch?v=0DPTJsK8dio",
@@ -22,27 +37,54 @@
         "https://www.youtube.com/watch?v=rOeRJq1RIjY",
         "https://www.youtube.com/watch?v=Y2GMgs_zYxg",
         "https://www.youtube.com/watch?v=rgvqMUI4fRY",
-        "https://www.youtube.com/watch?v=1IDz66PNG-s",
+        {
+          "url": "https://www.youtube.com/watch?v=1IDz66PNG-s",
+          "title": "[성우 샘플] 반요 야샤히메 '히구라시 토와' 음성 (CV. 이새아)"
+        },
         "https://www.youtube.com/watch?v=SreGTFfWnt8",
         "https://www.youtube.com/watch?v=aDpttDSXibQ",
         "https://www.youtube.com/watch?v=HR-lZf-jQJw",
-        "https://www.youtube.com/watch?v=sW7u4S6XYoM",
+        {
+          "url": "https://www.youtube.com/watch?v=sW7u4S6XYoM",
+          "title": "📻성우 이새아 샘플 - [광고] 친근하고 쾌활한 분위기"
+        },
         "https://www.youtube.com/watch?v=4fkTZkRTDkw",
         "https://www.youtube.com/watch?v=NtO1n4g8pw0",
-        "https://www.youtube.com/watch?v=Xv5-Pff5Y_g",
-        "https://www.youtube.com/watch?v=S3RrFINOnJc",
+        {
+          "url": "https://www.youtube.com/watch?v=Xv5-Pff5Y_g",
+          "title": "📻성우 이새아 샘플 - [광고] 발랄하고 귀염뽀짝한 분위기"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=S3RrFINOnJc",
+          "title": "🎙성우 이새아 샘플 - [10대 여자] 몽환적이고 나긋한 꿈요정"
+        },
         "https://www.youtube.com/watch?v=T2ceXpvpJ0g",
-        "https://www.youtube.com/watch?v=lYhmTCcKDdg",
-        "https://www.youtube.com/watch?v=JNNbjRuTosg",
+        {
+          "url": "https://www.youtube.com/watch?v=lYhmTCcKDdg",
+          "title": "🎙성우 이새아 샘플 - [캐릭터 남아] 조급하고 짓궂은 시계토끼"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=JNNbjRuTosg",
+          "title": "📻성우 이새아 샘플 - [광고] 발랄하고 친절한 분위기"
+        },
         "https://www.youtube.com/watch?v=oLWnxCMpiNM",
-        "https://www.youtube.com/watch?v=fKsKmMRah5M",
+        {
+          "url": "https://www.youtube.com/watch?v=fKsKmMRah5M",
+          "title": "🎙성우 이새아 샘플 - [10대 여자] 충직하고 침착한 오퍼레이터"
+        },
         "https://www.youtube.com/watch?v=8aK4-wt054M",
         "https://www.youtube.com/watch?v=Vq3219PNYpc",
-        "https://www.youtube.com/watch?v=bg_KQZ7Yaq8",
+        {
+          "url": "https://www.youtube.com/watch?v=bg_KQZ7Yaq8",
+          "title": "🎙성우 이새아 샘플 - [20대 여자] 거만하고 기가 센 파멸의 용사"
+        },
         "https://www.youtube.com/watch?v=skmix_gDqtk",
         "https://www.youtube.com/watch?v=CAzBmEx0DY4",
         "https://www.youtube.com/watch?v=47x2N3Yqe0M",
-        "https://www.youtube.com/watch?v=S6XWqAVYh5A",
+        {
+          "url": "https://www.youtube.com/watch?v=S6XWqAVYh5A",
+          "title": "🎙성우 이새아 샘플 - [캐릭터 여아] 귀엽고 친절한 요정"
+        },
         "https://www.youtube.com/watch?v=BTWdCG4pQGI",
         "https://www.youtube.com/watch?v=meFyFAzHo5g",
         "https://www.youtube.com/watch?v=Lcvt3X2SZxM",
@@ -59,15 +101,27 @@
         "https://www.youtube.com/watch?v=TV-1MJpOVH4",
         "https://www.youtube.com/watch?v=arocYn_QTeM",
         "https://www.youtube.com/watch?v=YjW8ZDWZkLA",
-        "https://www.youtube.com/watch?v=zE6-CbZP8Q8",
-        "https://www.youtube.com/watch?v=BADmfiLvGDk",
+        {
+          "url": "https://www.youtube.com/watch?v=zE6-CbZP8Q8",
+          "title": "🎙성우 이새아 샘플 - [10대 여자] 악에 물든 신비로운 소녀"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=BADmfiLvGDk",
+          "title": "🎙성우 이새아 샘플 - [20대 여자] 터프하고 거친 해적"
+        },
         "https://www.youtube.com/watch?v=FgEQEgtOjNo",
         "https://www.youtube.com/watch?v=9xdJDg1wJg0",
-        "https://www.youtube.com/watch?v=vCRdxstP7xs",
+        {
+          "url": "https://www.youtube.com/watch?v=vCRdxstP7xs",
+          "title": "🎙성우 이새아 샘플 - [20대 여자] 고상하고 기품 있는 귀족 아가씨"
+        },
         "https://www.youtube.com/watch?v=qUU26gAh3s4",
         "https://www.youtube.com/watch?v=x6RMhMdje_Y",
         "https://www.youtube.com/watch?v=dcEaUMHsnjc",
-        "https://www.youtube.com/watch?v=K92uGCIALJY",
+        {
+          "url": "https://www.youtube.com/watch?v=K92uGCIALJY",
+          "title": "🎙성우 이새아 샘플 - [10대 여자] 소심하고 성숙한 여학생"
+        },
         "https://www.youtube.com/watch?v=LWHY-wUKvk8",
         "https://www.youtube.com/watch?v=DigvopBnjFA",
         "https://www.youtube.com/watch?v=iVJttVwc3TQ",
@@ -75,10 +129,16 @@
         "https://www.youtube.com/watch?v=B6HkVvv9UKg",
         "https://www.youtube.com/watch?v=Okjb9GDLqGg",
         "https://www.youtube.com/watch?v=Gc0oPyl4ebk",
-        "https://www.youtube.com/watch?v=2NR3fNt_tB8",
+        {
+          "url": "https://www.youtube.com/watch?v=2NR3fNt_tB8",
+          "title": "🎙성우 이새아 샘플 - [캐릭터 여아] 새침하고 영악한 아이돌"
+        },
         "https://www.youtube.com/watch?v=3fzF95U_r4Q",
         "https://www.youtube.com/watch?v=CZLttDrbNLk",
-        "https://www.youtube.com/watch?v=mfW8ybXpyss",
+        {
+          "url": "https://www.youtube.com/watch?v=mfW8ybXpyss",
+          "title": "🎙성우 이새아 샘플 - [30대 여자] 섹시하고 도발적인 사디스트"
+        },
         "https://www.youtube.com/watch?v=mGsxpd_fkpI",
         "https://www.youtube.com/watch?v=0jj4wSthDAQ",
         "https://www.youtube.com/watch?v=CsnJerjD_4s",
@@ -90,7 +150,10 @@
         "https://www.youtube.com/watch?v=huOeZ1wT_oc",
         "https://www.youtube.com/watch?v=D_lqMCKDhNQ",
         "https://www.youtube.com/watch?v=-J0Fk6wcanA",
-        "https://www.youtube.com/watch?v=k8NCvilcLRQ",
+        {
+          "url": "https://www.youtube.com/watch?v=k8NCvilcLRQ",
+          "title": "성우 연기모음 - 이새아 편 (1부)"
+        },
         "https://www.youtube.com/watch?v=usn8rMTgUkE"
       ],
       "tags": [
@@ -112,54 +175,198 @@
       "name": "정재헌",
       "description": "",
       "sampleUrls": [
-        "https://www.youtube.com/watch?v=qcCtAf9mrkI",
-        "https://www.youtube.com/watch?v=9fSjnFiwkqk",
-        "https://www.youtube.com/watch?v=qw2N7DmG2iA",
-        "https://www.youtube.com/watch?v=0QjeyQXxY0A",
-        "https://www.youtube.com/watch?v=5NST9UUUSsY",
-        "https://www.youtube.com/watch?v=KorJ6VClfqI",
-        "https://www.youtube.com/watch?v=jZAmg0mC7a8",
-        "https://www.youtube.com/watch?v=4JCZMNFEwT4",
-        "https://www.youtube.com/watch?v=OVLb6vP_j7I",
-        "https://www.youtube.com/watch?v=28G-cYIuH8M",
-        "https://www.youtube.com/watch?v=oUeqNUVFZ7c",
-        "https://www.youtube.com/watch?v=jznUdTtKI6k",
-        "https://www.youtube.com/watch?v=zN_qTI9G3eA",
-        "https://www.youtube.com/watch?v=9qlf19nxZcU",
-        "https://www.youtube.com/watch?v=qYI4rWy6TNA",
-        "https://www.youtube.com/watch?v=cT8LbqT2qYg",
-        "https://www.youtube.com/watch?v=B0lzgehU6ho",
-        "https://www.youtube.com/watch?v=ELv4x6f9Kbg",
-        "https://www.youtube.com/watch?v=zoY174N01qA",
-        "https://www.youtube.com/watch?v=p04AeITw4Fw",
-        "https://www.youtube.com/watch?v=fVgfCgATfgc",
-        "https://www.youtube.com/watch?v=70LJJEE-1-0",
-        "https://www.youtube.com/watch?v=pnaGGlzZ08Q",
-        "https://www.youtube.com/watch?v=Xjm3bUFGoQQ",
-        "https://www.youtube.com/watch?v=PLLnn069In0",
-        "https://www.youtube.com/watch?v=2vJBiLFayek",
-        "https://www.youtube.com/watch?v=-omy6rnbLhg",
-        "https://www.youtube.com/watch?v=Wgf2yOABefg",
-        "https://www.youtube.com/watch?v=wyTV3bvdrNQ",
-        "https://www.youtube.com/watch?v=3JiCU_DOwC0",
-        "https://www.youtube.com/watch?v=zDT1-bFfkV0",
-        "https://www.youtube.com/watch?v=diTVJ75yu0w",
-        "https://www.youtube.com/watch?v=AqsBgYErBbc",
-        "https://www.youtube.com/watch?v=p1HSGGZvgUU",
-        "https://www.youtube.com/watch?v=GH-B1sQ7XQg",
-        "https://www.youtube.com/watch?v=YJ1z2yK70wI",
-        "https://www.youtube.com/watch?v=0dzH4Wcq9MI",
-        "https://www.youtube.com/watch?v=4q5bvkPwr48",
-        "https://www.youtube.com/watch?v=LpAQ6y3hVpc",
-        "https://www.youtube.com/watch?v=2ChNWBStjF8",
-        "https://www.youtube.com/watch?v=VNgx0gzTs2w",
-        "https://www.youtube.com/watch?v=v7w66A_JDnI",
-        "https://www.youtube.com/watch?v=kMKEiPDjXcA",
-        "https://www.youtube.com/watch?v=I4SpwF1DzdQ",
-        "https://www.youtube.com/watch?v=mDzCxHkUV1c",
-        "https://www.youtube.com/watch?v=OPQ8_I6CsIQ",
-        "https://www.youtube.com/watch?v=pVFTWNMyq1g",
-        "https://www.youtube.com/watch?v=2lGCPa-kvaI"
+        {
+          "url": "https://www.youtube.com/watch?v=qcCtAf9mrkI",
+          "title": "[성우 샘플] 주토피아 '닉 와일드' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9fSjnFiwkqk",
+          "title": "[성우 샘플] 귀멸의 칼날 '토미오카 기유' 음성 (CV. 정재헌) | 수주(水柱)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=qw2N7DmG2iA",
+          "title": "[성우 샘플] 나루토 '데이다라' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=0QjeyQXxY0A",
+          "title": "[성우 샘플] 역전재판 '나루호도 류이치' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=5NST9UUUSsY",
+          "title": "[성우 샘플] 원피스 '트라팔가 로우' 음성 (CV. 정재헌) | 이명 '죽음의 외과의' | 하트 해적단"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=KorJ6VClfqI",
+          "title": "성우 정재헌의 류지 음성 샘플"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jZAmg0mC7a8",
+          "title": "[성우 샘플] 명탐정 코난 '백준수' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4JCZMNFEwT4",
+          "title": "성우 정재헌의 백혈구 U-1146 음성 샘플"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=OVLb6vP_j7I",
+          "title": "성우 정재헌의 쟌 음성 샘플"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=28G-cYIuH8M",
+          "title": "[성우 샘플] 문구계의 슈퍼 아이돌 지우개 군 '지우개군' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=oUeqNUVFZ7c",
+          "title": "성우 정재헌의 카제하야 음성 샘플"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=jznUdTtKI6k",
+          "title": "[성우 샘플] 스파이더맨 '피터 파커' 음성 (CV. 정재헌) | 스파이더맨 | 배우 '앤드류 가필드'"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zN_qTI9G3eA",
+          "title": "[성우 샘플] 하이큐 '다테공고 응원단장' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=9qlf19nxZcU",
+          "title": "정재헌 성우 모음｜카제하야 성우"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=qYI4rWy6TNA",
+          "title": "[성우 음성 샘플] 원피스 '시모츠키 류마' 음성 (CV. 정재헌) | 이명 '류마 드 킹' | 좀비"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=cT8LbqT2qYg",
+          "title": "[성우 음성 샘플] 마다가스카 '척 찰스' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=B0lzgehU6ho",
+          "title": "[성우 음성 샘플] 마다가스카 '사비오' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ELv4x6f9Kbg",
+          "title": "[성우 음성 샘플] 장송의 프리렌 '크라프트' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zoY174N01qA",
+          "title": "[성우 음성 샘플] 포켓몬스터 '아르세우스' 음성 (CV. 정재헌) | 전국도감 493번"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=p04AeITw4Fw",
+          "title": "[성우 음성 샘플] 원피스 '츄' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fVgfCgATfgc",
+          "title": "[성우 음성 샘플] 원피스 '샴' 음성 (CV. 정재헌) | 이명 '고양이 형제'"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=70LJJEE-1-0",
+          "title": "[성우 음성 샘플] 포켓몬스터 '풍' 음성 (CV. 정재헌) | 호연지방 이끼체육관 관장"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=pnaGGlzZ08Q",
+          "title": "[성우 음성 샘플] 나의 히어로 아카데미아 '올포원' 음성 (CV. 정재헌) | 젊은 모습으로 회춘한 모습 | 본명 '시가라키 젠'"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Xjm3bUFGoQQ",
+          "title": "[성우 샘플] 리그 오브 레전드 '펄스건 이즈리얼' 음성 (CV. 정재헌) | 주 역할군 '원거리'"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=PLLnn069In0",
+          "title": "[성우 샘플] *비공식 더빙* 주술회전 '고죠 사토루' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=2vJBiLFayek",
+          "title": "[성우 샘플] 짱구는 못말려 '액션가면' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=-omy6rnbLhg",
+          "title": "[성우 샘플] 파워레인저 엔진포스 삽입곡 '귀여운 그대' (Vo. 변현우, 정재헌, 사성웅, 엄상현, 신용우) | G5 프린스"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Wgf2yOABefg",
+          "title": "[성우 샘플] 원피스 '트라팔가 로우' 음성 (CV. 정재헌) | 어린 시절 | 이명 '죽음의 외과의' | 하트 해적단"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=wyTV3bvdrNQ",
+          "title": "[성우 샘플] 파워레인저 매직포스 '오즈 카이' 음성 (CV. 정재헌) | 매직 레드"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=3JiCU_DOwC0",
+          "title": "[성우 샘플] 파워레인저 닌자스톰 '카스미 잇코' 음성 (CV. 정재헌) | 카부토 라이저"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zDT1-bFfkV0",
+          "title": "[성우 샘플] 파워레인저 정글포스 '쥰' 음성 (CV. 정재헌) | 정글 블루"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=diTVJ75yu0w",
+          "title": "[성우 샘플] 짱구는 못말려 '정훈' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=AqsBgYErBbc",
+          "title": "성우 정재헌의 조석 음성 샘플"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=p1HSGGZvgUU",
+          "title": "[성우 샘플] 짱구는 못말려 '오수' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=GH-B1sQ7XQg",
+          "title": "[성우 샘플] 천원돌파 그렌라간 '시몬' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=YJ1z2yK70wI",
+          "title": "[성우 샘플] 마다가스카 '프라이빗' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=0dzH4Wcq9MI",
+          "title": "[성우 샘플] 엉클 그랜파 '피자 스티브' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4q5bvkPwr48",
+          "title": "[성우 샘플] 어떤 마술의 금서목록 '엑셀러레이터' 음성 (CV. 정재헌)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=LpAQ6y3hVpc",
+          "title": "성우 정재헌의 나츠키 음성 샘플"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=2ChNWBStjF8",
+          "title": "신작게임 세븐나이츠 2 성우진 모음"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=VNgx0gzTs2w",
+          "title": "[어메이징 모리스] 정재헌, 장미, 홍진욱, 김사라, 정의한, 김현욱 성우 추천 영상"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=v7w66A_JDnI",
+          "title": "[어메이징 모리스] 더빙 예고편 모음 - 정재헌, 박지윤, 오인성 성우"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kMKEiPDjXcA",
+          "title": "[더 퍼스트 슬램덩크] 장민혁, 최낙윤, 정재헌, 소연, 박지윤 성우 VIP 시사회 인사 영상"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=I4SpwF1DzdQ",
+          "title": "[디즈니 애니멀 킹덤의 행복한 동물 세상] 더빙 예고편 - 정재헌, 송하림, 김도영 성우 #디즈니플러스"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mDzCxHkUV1c",
+          "title": "[피어리스] 더빙 예고편·공식 클립 - 엄상현, 김나율, 정재헌 성우 #넷플릭스"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=OPQ8_I6CsIQ",
+          "title": "[스케치북] 더빙 메인 예고편 - 김도영, 전숙경, 구자형 성우 #디즈니플러스"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=pVFTWNMyq1g",
+          "title": "[나 홀로 즐거운 집에] 더빙 예고편 - 김나율, 이규창, 정재헌 성우 #디즈니플러스 @0.Readingboy"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=2lGCPa-kvaI",
+          "title": "[닌자고] 시즌 1 오프닝"
+        }
       ],
       "tags": [
         "열혈",
@@ -366,35 +573,122 @@
       "name": "최승훈",
       "description": "",
       "sampleUrls": [
-        "https://www.youtube.com/watch?v=dXwZkvf932o",
-        "https://www.youtube.com/watch?v=XcR0XVt2Gdw",
-        "https://www.youtube.com/watch?v=1SmYKW_hKbg",
-        "https://www.youtube.com/watch?v=RiAGKqKt1Ic",
-        "https://www.youtube.com/watch?v=mlZbqYu5Hi4",
-        "https://www.youtube.com/watch?v=T1lo7eD_kv8",
-        "https://www.youtube.com/watch?v=7WrITKh-UkU",
-        "https://www.youtube.com/watch?v=Qql_UdBVwyo",
-        "https://www.youtube.com/watch?v=ku-yYLN1wy0",
-        "https://www.youtube.com/watch?v=OSagsSX6SeE",
-        "https://www.youtube.com/watch?v=X-M72vAKIes",
-        "https://www.youtube.com/watch?v=kUv8kpgfOK8",
-        "https://www.youtube.com/watch?v=GTb_1QVgDss",
-        "https://www.youtube.com/watch?v=wEPTSQjNydc",
-        "https://www.youtube.com/watch?v=vvloa-LD0sQ",
-        "https://www.youtube.com/watch?v=lES8Q1RD1oU",
-        "https://www.youtube.com/watch?v=Pon2sqdh-II",
-        "https://www.youtube.com/watch?v=to_cy145HCE",
-        "https://www.youtube.com/watch?v=W6pwvsktYiA",
-        "https://www.youtube.com/watch?v=BjvZ6PlAGlA",
-        "https://www.youtube.com/watch?v=4rzlj9llZT4",
-        "https://www.youtube.com/watch?v=eT1jYKup8U8",
-        "https://www.youtube.com/watch?v=VSs4jUZsw54",
-        "https://www.youtube.com/watch?v=oO6XrXER8ao",
-        "https://www.youtube.com/watch?v=Z2Mj8u5aJZE",
-        "https://www.youtube.com/watch?v=u7kAEzF3WQc",
-        "https://www.youtube.com/watch?v=DC0vWFR6WiM",
-        "https://www.youtube.com/watch?v=Djkm2riR9Os",
-        "https://www.youtube.com/watch?v=p5AH27-G8U4"
+        {
+          "url": "https://www.youtube.com/watch?v=dXwZkvf932o",
+          "title": "최승훈 성우 모음｜롤 알리스타 성우"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=XcR0XVt2Gdw",
+          "title": "[성우 음성 샘플] 도박묵시록 카이지 '안도 마모루' 음성 (CV. 최승훈)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=1SmYKW_hKbg",
+          "title": "[성우 음성 샘플] 포켓몬스터 '그린' 음성 (CV. 최승훈) | 관동지방 석영리그 챔피언"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=RiAGKqKt1Ic",
+          "title": "[성우 샘플] 스파이더맨 '해리 오스본' 음성 (CV. 최승훈) | 그린 고블린 | 흑화 전 | 배우 '데인 드한'"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=mlZbqYu5Hi4",
+          "title": "[성우 샘플] 스파이더맨 '해리 오스본' 음성 (CV. 최승훈) | 그린 고블린 | 흑화 후 | 배우 '데인 드한'"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=T1lo7eD_kv8",
+          "title": "[성우 샘플] 짱구는 못말려 '안젤라 오' 음성 (CV. 최승훈) | 극장판 6기 전격! 돼지발굽 대작전"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=7WrITKh-UkU",
+          "title": "[성우 샘플] 짱구는 못말려 '액션가면' 음성 (CV. 최승훈)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Qql_UdBVwyo",
+          "title": "[성우 샘플] 짱구는 못말려 '덩치' 음성 (CV. 최승훈) | 극장판 6기 전격! 돼지발굽 대작전"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ku-yYLN1wy0",
+          "title": "[성우 샘플] 짱구는 못말려 '마우스' 음성 (CV. 최승훈) | 극장판 6기 전격! 돼지발굽 대작전"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=OSagsSX6SeE",
+          "title": "[성우 샘플] 짱구는 못말려 '그래그래 마왕' 음성 (CV. 최승훈) | 극장판 1기 액션가면 대 그래그래 마왕"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=X-M72vAKIes",
+          "title": "[성우 샘플] 짱구는 못말려 '마인 자크' 음성 (CV. 최승훈) | 극장판 5기 암흑 마왕 대추적"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kUv8kpgfOK8",
+          "title": "[성우 샘플] 개구리 중사 케로로 '사빈' 음성 (CV. 최승훈)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=GTb_1QVgDss",
+          "title": "[성우 샘플] 원피스 '토니토니 쵸파' 음성 (CV. 최승훈) | 이명 '솜사탕광'"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=wEPTSQjNydc",
+          "title": "[성우 샘플] 오소마츠상 '마츠노 쥬시마츠' 음성 (CV. 최승훈)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vvloa-LD0sQ",
+          "title": "[성우 샘플] 중2병이라도 사랑이 하고 싶어! '토가시 유타' 음성 (CV. 최승훈) | 다크 플레임 마스터"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=lES8Q1RD1oU",
+          "title": "[성우 샘플] 원피스 '브룩' 음성 (CV. 최승훈) | 이명 '소울 킹'"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Pon2sqdh-II",
+          "title": "성우 연기모음 - 최승훈 (8부)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=to_cy145HCE",
+          "title": "성우 연기모음 - 최승훈 (7부)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=W6pwvsktYiA",
+          "title": "성우 연기모음 - 최승훈 (6부)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=BjvZ6PlAGlA",
+          "title": "성우 연기모음 - 최승훈 (5부)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=4rzlj9llZT4",
+          "title": "성우 연기모음 - 최승훈 (4부)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=eT1jYKup8U8",
+          "title": "성우 연기모음 - 최승훈 (3부)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=VSs4jUZsw54",
+          "title": "성우 연기모음 - 최승훈 (2부)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=oO6XrXER8ao",
+          "title": "성우 연기모음 - 최승훈 (1부)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Z2Mj8u5aJZE",
+          "title": "오소마츠 6쌍둥이 쥬시마츠 더빙 음성 (성우 최승훈)"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=u7kAEzF3WQc",
+          "title": "[마법 관리국과 비밀 요원들] 더빙 예고편 - 최승훈, 김율, 사문영 성우 #넷플릭스"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=DC0vWFR6WiM",
+          "title": "[세상을 정복하라] 더빙 예고편 - 최승훈, 정의한, 황창영 성우 #디즈니플러스"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Djkm2riR9Os",
+          "title": "[둘째들의 왕실 비밀 결사대] 더빙 예고편 - 장예나, 권창욱, 최승훈 성우 #디즈니플러스"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=p5AH27-G8U4",
+          "title": "[하이큐!! 땅 VS 하늘] 최승훈, 남도형 성우 인터뷰 클립"
+        }
       ],
       "tags": [
         "나긋나긋한/상냥한",
