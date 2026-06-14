@@ -1357,22 +1357,52 @@
       "sampleUrls": [
         {
           "url": "https://www.youtube.com/watch?v=Pv-BEZSiLQU",
-          "title": "엘렌 캐릭터 PV 「부탁해, 엘렌!」 | 젠레스 존 제로"
+          "title": "엘렌 캐릭터 PV 「부탁해, 엘렌!」 | 젠레스 존 제로",
+          "tags": [
+            "보이쉬",
+            "소녀",
+            "당찬",
+            "여자 성우",
+            "귀여운",
+            "아줌마",
+            "차분"
+          ]
         },
         {
           "url": "https://www.youtube.com/watch?v=0I4nDRxlmrs",
-          "title": "엘렌 캐릭터 플레이 -「유니폼·가위·상어 꼬리」 | 젠레스 존 제로"
+          "title": "엘렌 캐릭터 플레이 -「유니폼·가위·상어 꼬리」 | 젠레스 존 제로",
+          "tags": [
+            "보이쉬",
+            "소녀",
+            "당찬",
+            "여자 성우",
+            "귀여운",
+            "아줌마",
+            "차분"
+          ]
         },
         {
           "url": "https://www.youtube.com/watch?v=FFUazFncquU",
-          "title": "〈젠레스 존 제로〉 성우진의 새해 인사말 - 엘렌 편"
+          "title": "〈젠레스 존 제로〉 성우진의 새해 인사말 - 엘렌 편",
+          "tags": [
+            "보이쉬",
+            "소녀",
+            "당찬",
+            "여자 성우",
+            "귀여운",
+            "아줌마",
+            "차분"
+          ]
         }
       ],
       "tags": [
         "보이쉬",
         "소녀",
         "당찬",
-        "여자 성우"
+        "여자 성우",
+        "귀여운",
+        "아줌마",
+        "차분"
       ],
       "_sessionThumbUrl": "https://www.youtube.com/watch?v=Pv-BEZSiLQU"
     },
